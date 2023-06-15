@@ -40,19 +40,19 @@
 
         "countryId": 112,
 
-        "countryIso": "eg",
+        "countryIso": "الجزائر",
 
         "createdAt": "2023-05-26T13:48:34",
 
         "eligibleForTrial": false,
 
-        "email": "abdelhakimmezache40@gmail.com",
+        "email": "abdelhakimmezache@gmail.com",
 
         "emailVerified": false,
 
         "enthusiast": false,
 
-        "jwt": "eyJhbGciOiJIUzI1NiJ9.eyJzdWIiOiIxMDcxMzQzNSIsInNjb3BlIjpbInN0b3J5dGVsOnVzZXIiXSwiaWF0IjoxNjg1NzYzMjcxLCJzZXhwIjoxNjg1NzYzNTcxLCJleHAiOjE2ODkyMTkyNzEsImlzcyI6IlNUSFAiLCJjaWQiOiIxMDcxMzQzNSIsInN0b3JlIjoiU1RIUC1FRyIsImNvdW50cnlJZCI6IjExMiIsImJhc2VQcm9kdWN0cyI6WyJVTkxJTUlURUQiXX0.OJItlW2MhnjH94mkjciSQO35XtxnNrquUuIgZHmpjZY",
+        "jwt": "eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJodHRwczovL2FwaS12My5hNWRyLmNvbS9hcGkvdjMvbWUvcHJvZmlsZSIsImlhdCI6MTY4Njg0NzE0MywiZXhwIjo2MTY4Njg0NzA4MywibmJmIjoxNjg2ODQ3MTQzLCJqdGkiOiIwcXo3SnZFRFFPQWJzUzJGIiwic3ViIjoiMTEzNDgzIiwicHJ2IjoiODdlMGFmMWVmOWZkMTU4MTJmZGVjOTcxNTNhMTRlMGIwNDc1NDZhYSJ9.OHgBayLriF44fwhvUUUmawHW-5GazJdgdDcHj7X4XO0",
 
         "lang": "ar",
 
@@ -64,7 +64,7 @@
 
         "paymentIssues": false,
 
-        "phoneNumber": "abdelhakimmezache40@gmail.com",
+        "phoneNumber": "abdelhakimmezache@gmail.com",
 
         "preview": false,
 
